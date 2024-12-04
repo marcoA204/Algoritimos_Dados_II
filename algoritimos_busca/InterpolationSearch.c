@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
+
 int interpolationSearch(int arr[], int tamanho, int elemento) {
     int inicio = 0, fim = tamanho - 1;
 
